@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences to try on 1period</title>
+    <link>/posts/</link>
+    <description>Recent content in Experiences to try on 1period</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3 Dice, one game, one Java</title>
+      <link>/posts/making-a-game-in-java/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/making-a-game-in-java/</guid>
+      <description>Hello! Today we’re going to learn how to make a little game in Java. This game will ask you to choose a number from 1-6 and remember it. The program will throw 3 dice 5 times and count how many times the number you selected shows up. The computer will then choose a number and throw 3 dice 5 times. If your number shows up more times than the computer’s number, you win!</description>
+    </item>
+    
+    <item>
+      <title>Making Pong in Python</title>
+      <link>/posts/making-pong-in-python/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/making-pong-in-python/</guid>
+      <description>Making Pong In Python Hey everyone! Today we’re going to learn how to make Pong in Python. This video does a fantastic job of showing you step-by-step how to make this project.
+Before you watch the video, we want to highlight a few key things to watch for.
+First of all, this video uses Turtle. Turtle is a built-in Python library that lets you make graphics for your program. The video uses Turtle to generate the game itself.</description>
+    </item>
+    
+    <item>
+      <title>OSINT in 30 Minutes</title>
+      <link>/posts/osint-30-minutes/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/osint-30-minutes/</guid>
+      <description>Welcome to 1period’s guide to 30 minutes of OSINT! We are glad to have you here.  Above we have a video detailing the use of the OSINT framework. OSINT stands for Open Source Intelligence.
+The “Wii Suck” team for HSIO 2022, consisting of Kyle, Nandini, Yash, and Hosong. We did OSINT research on a particular individual who randomly happened to be a part of the hackathon and managed to find enough information to stage a potential social engineering attack.</description>
+    </item>
+    
+    <item>
+      <title>TinkerCAD Circuit Simulator</title>
+      <link>/posts/tinkercad-circuits/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tinkercad-circuits/</guid>
+      <description>Welcome to TinkerCAD Circuits walkthrough! This is video and annotation by Kyle Liao on the TinkerCAD circuits simulator. To get things straight, I haven’t used TinkerCAD services in years and never knew they expanded to circuits. THIS IS SO COOL. It’s an arduino simulator that runs in the browser. Not only does it simulate the physical side of the certain; it obviously lets you code in it. It uses block style code which is very similar to scratch, google blockly, etc.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to PicoCTF</title>
+      <link>/posts/picoctf-101/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/picoctf-101/</guid>
+      <description>#Welcome to PicoCTF!
+##This is a pseudo-guide to getting started! Kyle Liao is an avid PicoCTF beginner and will help you through this.
+First you are going to make an account with picoCTF. picoCTF is a website run by CMU(Carnegie Mellon University), displaying CTFs(capture the flags). Capture the Flags are cybersecurity challenges where one at the low level, you get information then use a cybersecurity technique to get a flag(information in a certain unique format often hidden inside the info).</description>
+    </item>
+    
+    <item>
+      <title>Welcome to to TinkerCAD</title>
+      <link>/posts/tinkercad-3d-objects/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tinkercad-3d-objects/</guid>
+      <description>Welcome to TinkerCAD. TinkerCAD is a browser based CAD solution. It’s owned by AutoCAD, so that might ring a few bells. We also mention it earlier with the circuit simulator they have(my opinion being that it is much cooler). I first used TinkerCAD for 3D modeling. I never really got the hang of it, but it surely impressed teachers for school projects. I remember taking a SVG file of Alfred Nobel and imposing it over a coin making my own “Nobel prize coin”.</description>
+    </item>
+    
+    <item>
+      <title>The revolution will be complete when the language is perfect</title>
+      <link>/posts/template/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/template/</guid>
+      <description>He moved over to the window Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly.
+Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig iron.</description>
+    </item>
+    
+  </channel>
+</rss>
