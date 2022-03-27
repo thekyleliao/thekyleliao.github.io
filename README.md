@@ -11,4 +11,4 @@ Feel free to have our code, Hugo made it anyway, and use it for your own purpose
 I'd like to thank the team, Nandini and Shariar who put up with me. I am utmost apperciative.
 
 To the people, if you don't want to add an experience to our site, look to see if your local instituion would value putting up our link in its computer lab. We want this site to have a real impact and inspire learning. bit.ly/WoGO22
-[Website](thekyleliao.github.io)
+(thekyleliao.github.io)
