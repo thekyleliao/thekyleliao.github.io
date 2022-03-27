@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on WoGO</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on WoGO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/about/</guid>
+      <description>About According to K-12 Drive, only about 4.7 percent of students nationally take computer science courses. Why? Maybe because only 51% of schools offer a computer science curriculum. 51%. Barely half.
+We have become increasingly aware that we are incredibly fortunate to have the opportunity to study computer science. Others do not have the same opportunities we have. Some simply do not have access to the curriculum, some are too busy to fit in a CS course, or some are simply very confused and don&amp;rsquo;t know where to start.</description>
+    </item>
+    
+  </channel>
+</rss>
