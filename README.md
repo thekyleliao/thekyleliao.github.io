@@ -1,6 +1,6 @@
 # thekyleliao.github.io
 
-## This is the current repository for (1period WIP), a site that is fast and accessible, enabling distribution of interesting technical experiences of various topics to people across the world's educational institutions.
+## This is the current repository for WoGO, a site that is fast and accessible, enabling distribution of interesting technical experiences of various topics to people across the world's educational institutions.
 
 This repo is the static assets produced by Hugo static site generator. We used the theme Hugo-Winston by JugglerX whose theme is on github.
 This was for the hackathon, HooHacks2022.
