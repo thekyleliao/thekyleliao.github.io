@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WoGO</title>
+    <link>/</link>
+    <description>Recent content on WoGO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3 Dice, one game, one Java</title>
+      <link>/posts/making-a-game-in-java/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/making-a-game-in-java/</guid>
+      <description>Hello! Today we’re going to learn how to make a little game in Java. This game will ask you to choose a number from 1-6 and remember it. The program will throw 3 dice 5 times and count how many times the number you selected shows up. The computer will then choose a number and throw 3 dice 5 times. If your number shows up more times than the computer’s number, you win!</description>
+    </item>
+    
+    <item>
+      <title>Hugo. What it is and how we did it!</title>
+      <link>/posts/hugo-how-we-did-it/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hugo-how-we-did-it/</guid>
+      <description>Hugo. What is it? Hugo is a static site generator and is a great way to make websites. However, it really should not be on this website, because it takes way longer than 30 minutes, but we made this website with it so I thought it would be nice to document our methods.
+These videos more or less encapsulate the general tasks of setting up hugo. I used them and they were a pillar to lean on.</description>
+    </item>
+    
+    <item>
+      <title>Intro to Excel(Nandini is the expert)</title>
+      <link>/posts/intro-to-excel/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/intro-to-excel/</guid>
+      <description>Intro to Excel Excel is a Microsoft-developed spreadsheet software. It can store data, create graphs, and show trends in data, and has many applications in data science. Some useful tools include the = function, which allows you to set the value of a cell based on the value stored in another cell. So for example, you can put 4 in A1 and then set B1 as =A1*3. B1 will now be 12.</description>
+    </item>
+    
+    <item>
+      <title>Linux for people(Not Dummies)</title>
+      <link>/posts/linux-for-people/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/linux-for-people/</guid>
+      <description>Linux for people(Not Dummies) TryHackMe has a great guide on how to get started with Linux First you are going to need to make an account which you can make at TryHackMe.
+Afterwards you are going to go to the room as tryhackme calls them and it will guide you all the way to the end of your Linux Fundamentals journey.
+Linux is interesting, because it alone is not an operating system, but a term describing the many variations, called distributions.</description>
+    </item>
+    
+    <item>
+      <title>Making Pong in Python</title>
+      <link>/posts/making-pong-in-python/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/making-pong-in-python/</guid>
+      <description>Making Pong In Python Hey everyone! Today we’re going to learn how to make Pong in Python. This video does a fantastic job of showing you step-by-step how to make this project.
+Before you watch the video, we want to highlight a few key things to watch for.
+First of all, this video uses Turtle. Turtle is a built-in Python library that lets you make graphics for your program. The video uses Turtle to generate the game itself.</description>
+    </item>
+    
+    <item>
+      <title>OSINT in 30 Minutes</title>
+      <link>/posts/osint-30-minutes/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/osint-30-minutes/</guid>
+      <description>Welcome to 1period’s guide to 30 minutes of OSINT! We are glad to have you here.  Above we have a video detailing the use of the OSINT framework. OSINT stands for Open Source Intelligence.
+The “Wii Suck” team for HSIO 2022, consisting of Kyle, Nandini, Yash, and Hosong. We did OSINT research on a particular individual who randomly happened to be a part of the hackathon and managed to find enough information to stage a potential social engineering attack.</description>
+    </item>
+    
+    <item>
+      <title>Pixlr(E). It&#39;s a raster based web editor for photos.</title>
+      <link>/posts/pixlr-e/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/pixlr-e/</guid>
+      <description>Pixlr. Ever heard of it? It’s an online browser based way to do raster based editing of photos. It’s useful. Take advantage. Combine it with Canva and you can make great things. Or just funny faces of your friends. Either or. Pixlr is very similar to other Raster Layer Based editors you might know, like GIMP(funny name I know), and the almighty photoshop. I started using photo editors beginning with Pixlr.</description>
+    </item>
+    
+    <item>
+      <title>TinkerCAD Circuit Simulator</title>
+      <link>/posts/tinkercad-circuits/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tinkercad-circuits/</guid>
+      <description>Welcome to TinkerCAD Circuits walkthrough! This is video and annotation by Kyle Liao on the TinkerCAD circuits simulator. To get things straight, I haven’t used TinkerCAD services in years and never knew they expanded to circuits. THIS IS SO COOL. It’s an arduino simulator that runs in the browser. Not only does it simulate the physical side of the certain; it obviously lets you code in it. It uses block style code which is very similar to scratch, google blockly, etc.</description>
+    </item>
+    
+    <item>
+      <title>TryHackme and Kyle will tell you about Google Dorking</title>
+      <link>/posts/google-dorking/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/google-dorking/</guid>
+      <description>TryHackMe and Kyle help you with Google Dorking Google Dorking is using google search engine and specific search queries in order to get information that wasn’t meant to be indexed by google. First, you are going to want to make an account on TryHackMe.
+TryHackMe has a video guide for its own room so you can be guided step by step through its questions. It’s why I like TryHackMe. It has a lot of handholding for topics I don’t understand.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to PicoCTF</title>
+      <link>/posts/picoctf-101/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/picoctf-101/</guid>
+      <description>Welcome to PicoCTF! This is a pseudo-guide to getting started! Kyle Liao is an avid PicoCTF beginner and will help you through this. First you are going to make an account with picoCTF. picoCTF is a website run by CMU(Carnegie Mellon University), displaying CTFs(capture the flags). Capture the Flags are cybersecurity challenges where one at the low level, you get information then use a cybersecurity technique to get a flag(information in a certain unique format often hidden inside the info).</description>
+    </item>
+    
+    <item>
+      <title>Welcome to to TinkerCAD</title>
+      <link>/posts/tinkercad-3d-objects/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tinkercad-3d-objects/</guid>
+      <description>Welcome to TinkerCAD. TinkerCAD is a browser based CAD solution. It’s owned by AutoCAD, so that might ring a few bells. We also mention it earlier with the circuit simulator they have(my opinion being that it is much cooler). I first used TinkerCAD for 3D modeling. I never really got the hang of it, but it surely impressed teachers for school projects. I remember taking a SVG file of Alfred Nobel and imposing it over a coin making my own “Nobel prize coin”.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/about/</guid>
+      <description>About According to K-12 Drive, only about 4.7 percent of students nationally take computer science courses. Why? Maybe because only 51% of schools offer a computer science curriculum. 51%. Barely half.
+We have become increasingly aware that we are incredibly fortunate to have the opportunity to study computer science. Others do not have the same opportunities we have. Some simply do not have access to the curriculum, some are too busy to fit in a CS course, or some are simply very confused and don’t know where to start.</description>
+    </item>
+    
+  </channel>
+</rss>
